@@ -23,5 +23,5 @@ class dinner{
   }
 }
 
-let breakfastfood=new breakfast("bancake","milk");
-breakfastfood;
+let breakfast=new breakfast("bancake","milk");
+breakfast;
